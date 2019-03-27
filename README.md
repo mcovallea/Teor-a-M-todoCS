@@ -35,9 +35,9 @@ Por cada unidad se realizará un ejercicio de aplicación, que puede consistir e
 | Unidades                                 | Contenidos                               |
 | ---------------------------------------- | ---------------------------------------- |
 | [1. La naturaleza del conocimiento científico en las Ciencias Sociales y en la Ciencia Política.](unidad1/README.md) | La naturaleza del conocimiento científico; la dimensión política de la ciencia. |
-| [2. El estatuto de cientificidad de las Ciencias Sociales.](Unidad2/README.md) | Una mirada histórica al origen y consolidación de las Ciencias Sociales. |
-| [3. Paradigmas de investigación en las Ciencias Sociales.](Unidad3/README.md) | Los intereses constitutivos del conocimiento; el positivismo, su historia y su impacto sobre las Ciencias Sociales; los paradigmas interpretativistas y el post-positivismo; el anarquismo epistemológico. |
-| [4. Aportes iberoamericanos contemporáneos.](Unidad4/README.md) | Ecología de saberes, decolonialidad del saber y pensamiento postcolonial. |
+| [2. El estatuto de cientificidad de las Ciencias Sociales.](unidad2/README.md) | Una mirada histórica al origen y consolidación de las Ciencias Sociales. |
+| [3. Paradigmas de investigación en las Ciencias Sociales.](unidad3/README.md) | Los intereses constitutivos del conocimiento; el positivismo, su historia y su impacto sobre las Ciencias Sociales; los paradigmas interpretativistas y el post-positivismo; el anarquismo epistemológico. |
+| [4. Aportes iberoamericanos contemporáneos.](unidad4/README.md) | Ecología de saberes, decolonialidad del saber y pensamiento postcolonial. |
 | [5. Métodos de investigación en Ciencias Sociales.](Unidad5/README.md) | Introducción a los métodos cualitativos y a los métodos cuantitativos. |
 
 ### Acuerdos para la convivencia
