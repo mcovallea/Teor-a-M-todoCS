@@ -22,7 +22,7 @@
 
 
 
-
+##### [Consultar las preguntas orientadoras de las lecturas 1 y 2](preguntas.pdf)
 
 
 
