@@ -65,7 +65,7 @@ Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia de
 
 
 
-[Consultar el microcurrículo.](MICROCURRÍCULO_ TEORÍA Y MÉTODO.pdf)
+[Consultar el microcurrículo.](MICROC.pdf)
 
 [Consultar el acuerdo pedagógico](ACUERDO PEDAGOGICO_ TEORÍA Y MÉTODO.pdf)
 
