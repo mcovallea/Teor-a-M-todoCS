@@ -14,15 +14,15 @@
 
 #### Lecturas: 
 
-[Flórez, R. De cómo el conocimiento no entra por los sentidos.](Florez1.pdf)
-
-[Flórez, R. De cómo la ciencia depende de la cultura.](Florez2.pdf)
+[Nunes, J.A. El rescate de la epistemología](1elrescatedelaepistemolgia.pdf)
 
 [Santos, B. Un discurso sobre las ciencias.](Santos3.pdf)
 
+[Wallerstein, I. Impensar las ciencias sociales](3impensar.pdf)
 
 
-##### [Consultar las preguntas orientadoras de las lecturas 1 y 2](preguntas.pdf)
+
+##### 
 
 
 
