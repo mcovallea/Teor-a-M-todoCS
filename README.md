@@ -2,7 +2,7 @@
 
 ## **¡Bienvenidos! ¡Bienvenidas!**
 
-**Semestre 2019A	| Código de Asignatura: 11011557**
+**Semestre 2019B	| Código de Asignatura: 11011557**
 
 > Profesora: Maria Cristina Ovalle, PhD.
 >
@@ -28,7 +28,16 @@ Cuatro tipos de actividades permitirán el abordaje de los objetivos propuestos:
 
 ## Estrategias de evaluación
 
-Por cada unidad se realizará un ejercicio de aplicación, que puede consistir en un cuestionario o un ejercicio de producción textual. El promedio de las calificaciones obtenidas en esos 5 ejercicios será a su vez promediado con la nota obtenida en el trabajo final.
+Por cada documento asignado para lectura y discusión en clase se realizará un
+ejercicio escrito de comprobación de lectura. La sumatoria de estas
+comprobaciones de lectura proporcionará el 30% de la nota final. Al final de
+cada unidad se realizará un ejercicio de aplicación, que puede consistir en un
+cuestionario o un ejercicio de producción textual. El promedio de las calificaciones
+obtenidas en esos 5 ejercicios proveerá el 70% restante de la nota final.  
+
+
+
+v�9i��P
 
 ## Contenidos
 
@@ -42,11 +51,11 @@ Por cada unidad se realizará un ejercicio de aplicación, que puede consistir e
 
 ### Acuerdos para la convivencia
 
-La asistencia puntual a clases es fundamentalpara el éxito académico en esta asignatura. 
+La asistencia puntual a clases es fundamental para el éxito académico en esta asignatura. 
 
-En igual nivel de importancia se encuentran lalectura previa de los documentos asignados, la participación en clase y larealización de las actividades propuestas tanto durante las horas de trabajopresencial como durante las horas de trabajo independiente. 
+En igual nivel de importancia se encuentran la lectura previa de los documentos asignados, la participación en clase y la realización de las actividades propuestas tanto durante las horas de trabajo presencial como durante las horas de trabajo independiente. 
 
-Las fechas de evaluaciones y entrega de lostrabajos serán concertadas con los y las participantes en las sesionespresenciales y deben ser respetadas. Las solicitudes de plazos o fechasextraordinarias de evaluación deben ser justificadas y la causa respaldada porsoportes. 
+Las fechas de evaluaciones y entrega de los trabajos serán concertadas con los y las participantes en las sesionespresenciales y deben ser respetadas. Las solicitudes de plazos o fechas extraordinarias de evaluación deben ser justificadas y la causa respaldada porsoportes. 
 
 El plagio y todas las formas de fraude académico serán enérgicamente rechazados y tramitados según lo establecido en las normas de la Universidad. Las actividades (talleres, ensayos, evaluacionesy todos los demás productos elaborados durante el curso de la asignatura) en las cuales se detecte la presencia de plagio, fraude o cualquier otra práctica que comprometa éticamente a su autor o autora, obtendrá una calificación de 0 (cero). 
 
@@ -56,9 +65,9 @@ Se rechazan todas lasformas de discriminación, racismo, machismo y homofobia de
 
 
 
-[Consultar el microcurrículo.](MICROCURRCULO.pdf)
+[Consultar el microcurrículo.](MICROCURRÍCULO_ TEORÍA Y MÉTODO.pdf)
 
-[Consultar el acuerdo pedagógico](ACUERDO.pdf)
+[Consultar el acuerdo pedagógico](ACUERDO PEDAGOGICO_ TEORÍA Y MÉTODO.pdf)
 
 
 
