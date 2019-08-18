@@ -18,7 +18,7 @@
 
 [Wallerstein, I. Abrir las Ciencias Sociales.](2abrirlascs.pdf)
 
-[Wallerstein, I. Impensar las Ciencias Sociales](3impensar.pdf)
+
 
 
 
