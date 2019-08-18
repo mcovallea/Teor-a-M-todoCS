@@ -12,8 +12,6 @@
 
 [Habermas, J. Conocimiento e interés](1Habermas.pdf)
 
-[Vasco, C. Tres estilos de trabajo en las Ciencias Sociales.](2Vasco.pdf)
-
 [Seoane, B. Teoría social clásica y postpositivismo](3Seoane.pdf)
 
 [Feyerabend, P. Tratado contra el método](4Feyerabend.pdf)
